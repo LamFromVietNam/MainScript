@@ -12,4 +12,18 @@ elseif pid == 4390380541 then
     loadstring(game:HttpGet(current.."RumbleQuest.lua"))()
 elseif pid == 6728870912 then
     loadstring(game:HttpGet(current.."WarOfStand.lua"))()
+elseif pid == 7065731541 then
+    loadstring(game:HttpGet(current.."speedmansim.lua"))()
+elseif pid == 7025847767 then
+    loadstring(game:HttpGet(current.."destroyedkidsim.lua"))()
+elseif pid == 7363174769 then
+    loadstring(game:HttpGet(current.."deliverymansim.lua"))()
+elseif pid == 6766156863 then
+    loadstring(game:HttpGet(current.."strongmansim.lua"))()
+elseif pid == 7336128600 then
+    loadstring(game:HttpGet(current.."PetLegends.lua"))()
+elseif pid == 6769764667 then
+    loadstring(game:HttpGet(current.."FactorySimulator.lua"))()
+elseif pid == 3823781113 then
+    loadstring(game:HttpGet(current.."sabersimremake2.lua"))()
 end

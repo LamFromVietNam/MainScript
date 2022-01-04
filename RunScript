@@ -14,8 +14,8 @@ elseif pid == 6728870912 then
     loadstring(game:HttpGet(current.."WarOfStand.lua"))()
 elseif pid == 137885680 then
     loadstring(game:HttpGet(current.."ZombieRush.lua"))()
-elseif pid == 7025847767 then
-    loadstring(game:HttpGet(current.."destroyedkidsim.lua"))()
+elseif pid == 6284583030 then
+    loadstring(game:HttpGet(current.."PetSimulatorX.lua"))()
 elseif pid == 7363174769 then
     loadstring(game:HttpGet(current.."deliverymansim.lua"))()
 elseif pid == 6766156863 then

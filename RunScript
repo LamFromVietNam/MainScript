@@ -22,8 +22,8 @@ elseif pid == 6628835921 then
     loadstring(game:HttpGet(current.."MoneySimulator.lua"))()
 elseif pid == 4330397559 then
     loadstring(game:HttpGet(current.."VikingSimulator.lua"))()
-elseif pid == 6769764667 then
-    loadstring(game:HttpGet(current.."FactorySimulator.lua"))()
+elseif pid == 6734679364 then
+    loadstring(game:HttpGet(current.."NinjaBlade.lua"))()
 elseif pid == 3823781113 then
     loadstring(game:HttpGet(current.."sabersimremake2.lua"))()
 end

@@ -34,4 +34,6 @@ elseif pid == 7681451450 then
     loadstring(game:HttpGet(current.."AnimeSimulatorX.lua"))()
 elseif pid == 7424965087 then
     loadstring(game:HttpGet(current.."InfinityPower2.lua"))()
+elseif pid == 7449695387 then
+    loadstring(game:HttpGet(current.."PetFighter.lua"))()
 end

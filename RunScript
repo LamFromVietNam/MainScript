@@ -24,6 +24,6 @@ elseif pid == 4330397559 then
     loadstring(game:HttpGet(current.."VikingSimulator.lua"))()
 elseif pid == 6734679364 then
     loadstring(game:HttpGet(current.."NinjaBlade.lua"))()
-elseif pid == 3823781113 then
-    loadstring(game:HttpGet(current.."sabersimremake2.lua"))()
+elseif pid == 7393403076 then
+    loadstring(game:HttpGet(current.."AnimeArtifacts.lua"))()
 end
